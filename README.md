@@ -14,7 +14,7 @@ Automatic Role Assignment: Once a user submits an appropriate introduction, the 
 Detailed Logging: The bot logs all actions, such as message deletions, bans, and role assignments, providing transparency and traceability.
 
 # How to Use
-    Clone the Repository: git clone https://github.com/your-repo-url
+    Clone the Repository: git clone https://github.com/marcushenriquesj/RoleAssignBotBasedOnResponse
 Install Dependencies: Run npm install to install the necessary packages.
 Configure the Bot: Replace the placeholders with your actual Discord bot token, introduction channel ID, and role ID.
 Run the Bot: Execute node index.js (assuming your main file is named index.js) to start the bot.
